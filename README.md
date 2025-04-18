@@ -1,6 +1,12 @@
+<div align="center">
+
+# NXT Editor for Blender
+
+</div>
+
 # Installation
 **This is an experimental version of nxt_blender. Save early, save often.**   
-This is a Blender addon for nxt. Note that it will access the internet to install.  
+This is a Blender addon for [nxt](https://github.com/nxt-dev/nxt_editor). Note that it will access the internet to install.  
 Please read all the steps below before starting.
 
 _In some of our testing we found that we needed to install Python on 
